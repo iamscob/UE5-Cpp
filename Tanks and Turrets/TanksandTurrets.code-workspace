@@ -1,7 +1,7 @@
 {
 	"folders": [
 		{
-			"name": "ToonTanks",
+			"name": "TanksandTurrets",
 			"path": "."
 		},
 		{
@@ -18,8 +18,7 @@
 			"DOTNET_HOST_PATH": "C:\\Program Files\\Epic Games\\UE_5.5\\Engine\\Binaries\\ThirdParty\\DotNet\\8.0.300\\win-x64\\dotnet.exe",
 			"DOTNET_MULTILEVEL_LOOKUP": "0",
 			"DOTNET_ROLL_FORWARD": "LatestMajor"
-		},
-		"liveServer.settings.multiRootWorkspaceName": "ToonTanks"
+		}
 	},
 	"extensions": {
 		"recommendations": [
@@ -38,7 +37,7 @@
 					"ToonTanks",
 					"Win64",
 					"Debug",
-					"C:\\Unreal\\ToonTanksProjectSetup_4.25\\ToonTanksProjectSetup_4.25\\ToonTanks\\ToonTanks.uproject",
+					"C:\\Unreal\\UE5-Cpp\\Tanks and Turrets\\TanksandTurrets.uproject",
 					"-waitmutex"
 				],
 				"problemMatcher": "$msCompile",
@@ -55,7 +54,7 @@
 					"ToonTanks",
 					"Win64",
 					"Debug",
-					"C:\\Unreal\\ToonTanksProjectSetup_4.25\\ToonTanksProjectSetup_4.25\\ToonTanks\\ToonTanks.uproject",
+					"C:\\Unreal\\UE5-Cpp\\Tanks and Turrets\\TanksandTurrets.uproject",
 					"-waitmutex"
 				],
 				"problemMatcher": "$msCompile",
@@ -75,7 +74,7 @@
 					"ToonTanks",
 					"Win64",
 					"Debug",
-					"C:\\Unreal\\ToonTanksProjectSetup_4.25\\ToonTanksProjectSetup_4.25\\ToonTanks\\ToonTanks.uproject",
+					"C:\\Unreal\\UE5-Cpp\\Tanks and Turrets\\TanksandTurrets.uproject",
 					"-waitmutex"
 				],
 				"problemMatcher": "$msCompile",
@@ -92,7 +91,7 @@
 					"ToonTanks",
 					"Win64",
 					"DebugGame",
-					"C:\\Unreal\\ToonTanksProjectSetup_4.25\\ToonTanksProjectSetup_4.25\\ToonTanks\\ToonTanks.uproject",
+					"C:\\Unreal\\UE5-Cpp\\Tanks and Turrets\\TanksandTurrets.uproject",
 					"-waitmutex"
 				],
 				"problemMatcher": "$msCompile",
@@ -109,7 +108,7 @@
 					"ToonTanks",
 					"Win64",
 					"DebugGame",
-					"C:\\Unreal\\ToonTanksProjectSetup_4.25\\ToonTanksProjectSetup_4.25\\ToonTanks\\ToonTanks.uproject",
+					"C:\\Unreal\\UE5-Cpp\\Tanks and Turrets\\TanksandTurrets.uproject",
 					"-waitmutex"
 				],
 				"problemMatcher": "$msCompile",
@@ -129,7 +128,7 @@
 					"ToonTanks",
 					"Win64",
 					"DebugGame",
-					"C:\\Unreal\\ToonTanksProjectSetup_4.25\\ToonTanksProjectSetup_4.25\\ToonTanks\\ToonTanks.uproject",
+					"C:\\Unreal\\UE5-Cpp\\Tanks and Turrets\\TanksandTurrets.uproject",
 					"-waitmutex"
 				],
 				"problemMatcher": "$msCompile",
@@ -146,7 +145,7 @@
 					"ToonTanks",
 					"Win64",
 					"Development",
-					"C:\\Unreal\\ToonTanksProjectSetup_4.25\\ToonTanksProjectSetup_4.25\\ToonTanks\\ToonTanks.uproject",
+					"C:\\Unreal\\UE5-Cpp\\Tanks and Turrets\\TanksandTurrets.uproject",
 					"-waitmutex"
 				],
 				"problemMatcher": "$msCompile",
@@ -163,7 +162,7 @@
 					"ToonTanks",
 					"Win64",
 					"Development",
-					"C:\\Unreal\\ToonTanksProjectSetup_4.25\\ToonTanksProjectSetup_4.25\\ToonTanks\\ToonTanks.uproject",
+					"C:\\Unreal\\UE5-Cpp\\Tanks and Turrets\\TanksandTurrets.uproject",
 					"-waitmutex"
 				],
 				"problemMatcher": "$msCompile",
@@ -183,7 +182,7 @@
 					"ToonTanks",
 					"Win64",
 					"Development",
-					"C:\\Unreal\\ToonTanksProjectSetup_4.25\\ToonTanksProjectSetup_4.25\\ToonTanks\\ToonTanks.uproject",
+					"C:\\Unreal\\UE5-Cpp\\Tanks and Turrets\\TanksandTurrets.uproject",
 					"-waitmutex"
 				],
 				"problemMatcher": "$msCompile",
@@ -200,7 +199,7 @@
 					"ToonTanks",
 					"Win64",
 					"Test",
-					"C:\\Unreal\\ToonTanksProjectSetup_4.25\\ToonTanksProjectSetup_4.25\\ToonTanks\\ToonTanks.uproject",
+					"C:\\Unreal\\UE5-Cpp\\Tanks and Turrets\\TanksandTurrets.uproject",
 					"-waitmutex"
 				],
 				"problemMatcher": "$msCompile",
@@ -217,7 +216,7 @@
 					"ToonTanks",
 					"Win64",
 					"Test",
-					"C:\\Unreal\\ToonTanksProjectSetup_4.25\\ToonTanksProjectSetup_4.25\\ToonTanks\\ToonTanks.uproject",
+					"C:\\Unreal\\UE5-Cpp\\Tanks and Turrets\\TanksandTurrets.uproject",
 					"-waitmutex"
 				],
 				"problemMatcher": "$msCompile",
@@ -237,7 +236,7 @@
 					"ToonTanks",
 					"Win64",
 					"Test",
-					"C:\\Unreal\\ToonTanksProjectSetup_4.25\\ToonTanksProjectSetup_4.25\\ToonTanks\\ToonTanks.uproject",
+					"C:\\Unreal\\UE5-Cpp\\Tanks and Turrets\\TanksandTurrets.uproject",
 					"-waitmutex"
 				],
 				"problemMatcher": "$msCompile",
@@ -254,7 +253,7 @@
 					"ToonTanks",
 					"Win64",
 					"Shipping",
-					"C:\\Unreal\\ToonTanksProjectSetup_4.25\\ToonTanksProjectSetup_4.25\\ToonTanks\\ToonTanks.uproject",
+					"C:\\Unreal\\UE5-Cpp\\Tanks and Turrets\\TanksandTurrets.uproject",
 					"-waitmutex"
 				],
 				"problemMatcher": "$msCompile",
@@ -271,7 +270,7 @@
 					"ToonTanks",
 					"Win64",
 					"Shipping",
-					"C:\\Unreal\\ToonTanksProjectSetup_4.25\\ToonTanksProjectSetup_4.25\\ToonTanks\\ToonTanks.uproject",
+					"C:\\Unreal\\UE5-Cpp\\Tanks and Turrets\\TanksandTurrets.uproject",
 					"-waitmutex"
 				],
 				"problemMatcher": "$msCompile",
@@ -291,7 +290,7 @@
 					"ToonTanks",
 					"Win64",
 					"Shipping",
-					"C:\\Unreal\\ToonTanksProjectSetup_4.25\\ToonTanksProjectSetup_4.25\\ToonTanks\\ToonTanks.uproject",
+					"C:\\Unreal\\UE5-Cpp\\Tanks and Turrets\\TanksandTurrets.uproject",
 					"-waitmutex"
 				],
 				"problemMatcher": "$msCompile",
@@ -308,7 +307,7 @@
 					"ToonTanksEditor",
 					"Win64",
 					"Debug",
-					"C:\\Unreal\\ToonTanksProjectSetup_4.25\\ToonTanksProjectSetup_4.25\\ToonTanks\\ToonTanks.uproject",
+					"C:\\Unreal\\UE5-Cpp\\Tanks and Turrets\\TanksandTurrets.uproject",
 					"-waitmutex"
 				],
 				"problemMatcher": "$msCompile",
@@ -325,7 +324,7 @@
 					"ToonTanksEditor",
 					"Win64",
 					"Debug",
-					"C:\\Unreal\\ToonTanksProjectSetup_4.25\\ToonTanksProjectSetup_4.25\\ToonTanks\\ToonTanks.uproject",
+					"C:\\Unreal\\UE5-Cpp\\Tanks and Turrets\\TanksandTurrets.uproject",
 					"-waitmutex"
 				],
 				"problemMatcher": "$msCompile",
@@ -345,7 +344,7 @@
 					"ToonTanksEditor",
 					"Win64",
 					"Debug",
-					"C:\\Unreal\\ToonTanksProjectSetup_4.25\\ToonTanksProjectSetup_4.25\\ToonTanks\\ToonTanks.uproject",
+					"C:\\Unreal\\UE5-Cpp\\Tanks and Turrets\\TanksandTurrets.uproject",
 					"-waitmutex"
 				],
 				"problemMatcher": "$msCompile",
@@ -362,7 +361,7 @@
 					"ToonTanksEditor",
 					"Win64",
 					"DebugGame",
-					"C:\\Unreal\\ToonTanksProjectSetup_4.25\\ToonTanksProjectSetup_4.25\\ToonTanks\\ToonTanks.uproject",
+					"C:\\Unreal\\UE5-Cpp\\Tanks and Turrets\\TanksandTurrets.uproject",
 					"-waitmutex"
 				],
 				"problemMatcher": "$msCompile",
@@ -379,7 +378,7 @@
 					"ToonTanksEditor",
 					"Win64",
 					"DebugGame",
-					"C:\\Unreal\\ToonTanksProjectSetup_4.25\\ToonTanksProjectSetup_4.25\\ToonTanks\\ToonTanks.uproject",
+					"C:\\Unreal\\UE5-Cpp\\Tanks and Turrets\\TanksandTurrets.uproject",
 					"-waitmutex"
 				],
 				"problemMatcher": "$msCompile",
@@ -399,7 +398,7 @@
 					"ToonTanksEditor",
 					"Win64",
 					"DebugGame",
-					"C:\\Unreal\\ToonTanksProjectSetup_4.25\\ToonTanksProjectSetup_4.25\\ToonTanks\\ToonTanks.uproject",
+					"C:\\Unreal\\UE5-Cpp\\Tanks and Turrets\\TanksandTurrets.uproject",
 					"-waitmutex"
 				],
 				"problemMatcher": "$msCompile",
@@ -416,7 +415,7 @@
 					"ToonTanksEditor",
 					"Win64",
 					"Development",
-					"C:\\Unreal\\ToonTanksProjectSetup_4.25\\ToonTanksProjectSetup_4.25\\ToonTanks\\ToonTanks.uproject",
+					"C:\\Unreal\\UE5-Cpp\\Tanks and Turrets\\TanksandTurrets.uproject",
 					"-waitmutex"
 				],
 				"problemMatcher": "$msCompile",
@@ -433,7 +432,7 @@
 					"ToonTanksEditor",
 					"Win64",
 					"Development",
-					"C:\\Unreal\\ToonTanksProjectSetup_4.25\\ToonTanksProjectSetup_4.25\\ToonTanks\\ToonTanks.uproject",
+					"C:\\Unreal\\UE5-Cpp\\Tanks and Turrets\\TanksandTurrets.uproject",
 					"-waitmutex"
 				],
 				"problemMatcher": "$msCompile",
@@ -453,7 +452,7 @@
 					"ToonTanksEditor",
 					"Win64",
 					"Development",
-					"C:\\Unreal\\ToonTanksProjectSetup_4.25\\ToonTanksProjectSetup_4.25\\ToonTanks\\ToonTanks.uproject",
+					"C:\\Unreal\\UE5-Cpp\\Tanks and Turrets\\TanksandTurrets.uproject",
 					"-waitmutex"
 				],
 				"problemMatcher": "$msCompile",
@@ -470,9 +469,10 @@
 			{
 				"name": "Launch ToonTanks (Debug)",
 				"request": "launch",
-				"program": "C:\\Unreal\\ToonTanksProjectSetup_4.25\\ToonTanksProjectSetup_4.25\\ToonTanks\\Binaries\\Win64\\UnrealGame-Win64-Debug.exe",
+				"program": "C:\\Unreal\\UE5-Cpp\\Tanks and Turrets\\Binaries\\Win64\\UnrealGame-Win64-Debug.exe",
 				"preLaunchTask": "ToonTanks Win64 Debug Build",
-				"args": [],
+				"args": [
+				],
 				"cwd": "C:\\Program Files\\Epic Games\\UE_5.5",
 				"stopAtEntry": false,
 				"console": "integratedTerminal",
@@ -485,9 +485,10 @@
 			{
 				"name": "Launch ToonTanks (DebugGame)",
 				"request": "launch",
-				"program": "C:\\Unreal\\ToonTanksProjectSetup_4.25\\ToonTanksProjectSetup_4.25\\ToonTanks\\Binaries\\Win64\\UnrealGame-Win64-DebugGame.exe",
+				"program": "C:\\Unreal\\UE5-Cpp\\Tanks and Turrets\\Binaries\\Win64\\UnrealGame-Win64-DebugGame.exe",
 				"preLaunchTask": "ToonTanks Win64 DebugGame Build",
-				"args": [],
+				"args": [
+				],
 				"cwd": "C:\\Program Files\\Epic Games\\UE_5.5",
 				"stopAtEntry": false,
 				"console": "integratedTerminal",
@@ -500,9 +501,10 @@
 			{
 				"name": "Launch ToonTanks (Development)",
 				"request": "launch",
-				"program": "C:\\Unreal\\ToonTanksProjectSetup_4.25\\ToonTanksProjectSetup_4.25\\ToonTanks\\Binaries\\Win64\\UnrealGame.exe",
+				"program": "C:\\Unreal\\UE5-Cpp\\Tanks and Turrets\\Binaries\\Win64\\UnrealGame.exe",
 				"preLaunchTask": "ToonTanks Win64 Development Build",
-				"args": [],
+				"args": [
+				],
 				"cwd": "C:\\Program Files\\Epic Games\\UE_5.5",
 				"stopAtEntry": false,
 				"console": "integratedTerminal",
@@ -515,9 +517,10 @@
 			{
 				"name": "Launch ToonTanks (Test)",
 				"request": "launch",
-				"program": "C:\\Unreal\\ToonTanksProjectSetup_4.25\\ToonTanksProjectSetup_4.25\\ToonTanks\\Binaries\\Win64\\UnrealGame-Win64-Test.exe",
+				"program": "C:\\Unreal\\UE5-Cpp\\Tanks and Turrets\\Binaries\\Win64\\UnrealGame-Win64-Test.exe",
 				"preLaunchTask": "ToonTanks Win64 Test Build",
-				"args": [],
+				"args": [
+				],
 				"cwd": "C:\\Program Files\\Epic Games\\UE_5.5",
 				"stopAtEntry": false,
 				"console": "integratedTerminal",
@@ -530,9 +533,10 @@
 			{
 				"name": "Launch ToonTanks (Shipping)",
 				"request": "launch",
-				"program": "C:\\Unreal\\ToonTanksProjectSetup_4.25\\ToonTanksProjectSetup_4.25\\ToonTanks\\Binaries\\Win64\\UnrealGame-Win64-Shipping.exe",
+				"program": "C:\\Unreal\\UE5-Cpp\\Tanks and Turrets\\Binaries\\Win64\\UnrealGame-Win64-Shipping.exe",
 				"preLaunchTask": "ToonTanks Win64 Shipping Build",
-				"args": [],
+				"args": [
+				],
 				"cwd": "C:\\Program Files\\Epic Games\\UE_5.5",
 				"stopAtEntry": false,
 				"console": "integratedTerminal",
@@ -548,7 +552,7 @@
 				"program": "C:\\Program Files\\Epic Games\\UE_5.5\\Engine\\Binaries\\Win64\\UnrealEditor-Win64-Debug.exe",
 				"preLaunchTask": "ToonTanksEditor Win64 Debug Build",
 				"args": [
-					"C:\\Unreal\\ToonTanksProjectSetup_4.25\\ToonTanksProjectSetup_4.25\\ToonTanks\\ToonTanks.uproject"
+					"C:\\Unreal\\UE5-Cpp\\Tanks and Turrets\\TanksandTurrets.uproject"
 				],
 				"cwd": "C:\\Program Files\\Epic Games\\UE_5.5",
 				"stopAtEntry": false,
@@ -565,7 +569,7 @@
 				"program": "C:\\Program Files\\Epic Games\\UE_5.5\\Engine\\Binaries\\Win64\\UnrealEditor-Win64-DebugGame.exe",
 				"preLaunchTask": "ToonTanksEditor Win64 DebugGame Build",
 				"args": [
-					"C:\\Unreal\\ToonTanksProjectSetup_4.25\\ToonTanksProjectSetup_4.25\\ToonTanks\\ToonTanks.uproject"
+					"C:\\Unreal\\UE5-Cpp\\Tanks and Turrets\\TanksandTurrets.uproject"
 				],
 				"cwd": "C:\\Program Files\\Epic Games\\UE_5.5",
 				"stopAtEntry": false,
@@ -582,7 +586,7 @@
 				"program": "C:\\Program Files\\Epic Games\\UE_5.5\\Engine\\Binaries\\Win64\\UnrealEditor.exe",
 				"preLaunchTask": "ToonTanksEditor Win64 Development Build",
 				"args": [
-					"C:\\Unreal\\ToonTanksProjectSetup_4.25\\ToonTanksProjectSetup_4.25\\ToonTanks\\ToonTanks.uproject"
+					"C:\\Unreal\\UE5-Cpp\\Tanks and Turrets\\TanksandTurrets.uproject"
 				],
 				"cwd": "C:\\Program Files\\Epic Games\\UE_5.5",
 				"stopAtEntry": false,
@@ -602,7 +606,7 @@
 				"args": [
 					"-projectfiles",
 					"-vscode",
-					"-project=C:\\Unreal\\ToonTanksProjectSetup_4.25\\ToonTanksProjectSetup_4.25\\ToonTanks\\ToonTanks.uproject",
+					"-project=C:\\Unreal\\UE5-Cpp\\Tanks and Turrets\\TanksandTurrets.uproject",
 					"-game",
 					"-engine",
 					"-dotnet"

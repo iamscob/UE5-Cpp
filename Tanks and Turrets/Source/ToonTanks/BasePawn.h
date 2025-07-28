@@ -14,29 +14,27 @@ class TOONTANKS_API ABasePawn : public APawn
 public:
 	// Sets default values for this pawn's properties
 	ABasePawn();
-	UPROPERTY(VisibleAnywhere, BlueprintReadWrite) // public var example
-	int32 VisibleAnywhereInt = 12;
 
 protected:
-	// Called when the game starts or when spawned
-	virtual void
-	BeginPlay() override;
+	void RotateTurret(FVector LookAtTarget);
+	void Fire();
+
+	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = "Movement", meta = (AllowPrivateAccess = "true"))
+	float TurretRotationSpeed = 6.f;
 
 private:
-	UPROPERTY()
+	UPROPERTY(VisibleAnywhere, BlueprintReadOnly, Category = "Components", meta = (AllowPrivateAccess = "true"))
 	class UCapsuleComponent *CapsuleComp;
-	UPROPERTY()
+	UPROPERTY(VisibleAnywhere, BlueprintReadOnly, Category = "Components", meta = (AllowPrivateAccess = "true"))
 	UStaticMeshComponent *BaseMesh;
-	UPROPERTY()
+	UPROPERTY(VisibleAnywhere, BlueprintReadOnly, Category = "Components", meta = (AllowPrivateAccess = "true"))
 	UStaticMeshComponent *TurretMesh;
-	UPROPERTY()
+	UPROPERTY(VisibleAnywhere, BlueprintReadOnly, Category = "Components", meta = (AllowPrivateAccess = "true"))
 	USceneComponent *ProjectileSpawnPoint;
-	UPROPERTY(EditAnywhere, BlueprintReadWrite, meta = (AllowPrivateAccess = "true")) // private var example
-	float VisibleInstanceOnlyfloat = 1.01f;
-	// Called every frame
-	virtual void
-	Tick(float DeltaTime) override;
 
-	// Called to bind functionality to input
-	virtual void SetupPlayerInputComponent(class UInputComponent *PlayerInputComponent) override;
+	UPROPERTY(EditAnywhere, Category = "Float") // private var example
+	float VisibleInstanceOnlyfloat = 1.01f;
+
+	UPROPERTY(EditAnywhere, Category = "Combat")
+	TSubclassOf<class AProjectileBase> ProjectileClass;
 };

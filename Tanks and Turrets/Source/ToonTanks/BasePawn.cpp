@@ -31,5 +31,11 @@ void ABasePawn::Fire()
 {
 	FVector Location = ProjectileSpawnPoint->GetComponentLocation();
 	FRotator Rotation = ProjectileSpawnPoint->GetComponentRotation();
-	GetWorld()->SpawnActor<AProjectileBase>(ProjectileClass, Location, Rotation);
+
+	auto Projectile = GetWorld()->SpawnActor<AProjectileBase>(ProjectileClass, Location, Rotation);
+	Projectile->SetOwner(this);
 };
+void ABasePawn::HandleDestruction()
+{
+	// TODO: Destroyed Model/VFX/SFX/
+}
